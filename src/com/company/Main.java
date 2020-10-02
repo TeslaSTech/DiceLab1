@@ -1,5 +1,11 @@
 package com.company;
 
+/*
+Valmik Revankar
+Dice Lab 1 Redo Main.java
+Extra: Being able to change the number of sides on the dice
+ */
+
 public class Main {
 
     public static void main(String[] args) {
